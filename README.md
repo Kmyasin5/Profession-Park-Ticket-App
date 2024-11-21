@@ -54,9 +54,9 @@ export default tseslint.config({
 Features for this App
 
 1. Register User (COMPLETED)
-2. Login User
-3. Add Ticket
-4. List Ticket
+2. Login User (COMPLETED)
+3. Add Ticket (COMPLETED)
+4. List Ticket (COMPLETED)
 5. Add created date in Ticket
 6. Edit Ticket
 7. Add user detials in ticket
